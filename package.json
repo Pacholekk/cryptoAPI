@@ -1,0 +1,26 @@
+{
+  "name": "kryptoapi",
+  "version": "1.0.0",
+  "description": "Web app on which u can chceck cryptocurrency value",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pacholekk/cryptoAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pacholekk/cryptoAPI/issues"
+  },
+  "homepage": "https://github.com/Pacholekk/cryptoAPI#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2"
+  }
+}
